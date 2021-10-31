@@ -8,3 +8,7 @@
 5. игнорируются файлы override.tf, override.tf.json, содержат в конце имени  _override.tf и _override.tf.json
 6. игнорируются файлы terraform.rc, и оканчивающиеся на .terraformrc в данном каталоге
 
+7. Новая строчка из задания по ветвлениям
+	7.1. git branch <hash> - переключает на новую ветку
+	7.2. git branch -b new - создает новую ветку
+
